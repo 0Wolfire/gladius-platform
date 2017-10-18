@@ -1,4 +1,4 @@
-# Welcome to the Gladius crowdsale and token repository
+# Welcome to the Gladius Platform 
 
 Gladius is the decentralized solution to protect against DDoS attacks by allowing you to connect 
 with protection pools near you to provide better protection and accelerate your content. With an easy 
