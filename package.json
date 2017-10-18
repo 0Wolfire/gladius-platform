@@ -1,0 +1,25 @@
+{
+  "name": "gladius-platform",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DecentralizedIT/gladius-platform"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "truffle": "^4.0.0-beta.0",
+    "web3": "^1.0.0-beta.23"
+  },
+  "devDependencies": {
+    "ethereumjs-testrpc": "^4.1.3",
+    "solidity-coverage": "^0.2.2",
+    "solium": "^0.5.5",
+    "standard": "^10.0.3"
+  }
+}
